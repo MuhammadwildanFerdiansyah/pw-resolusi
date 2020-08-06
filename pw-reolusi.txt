@@ -1,0 +1,10 @@
+pw resolusi 
+tags
+Image,Table,Link
+CSS
+PHP
+Array 
+Form 
+Mysql CRUD 
+Responsi 1 
+Responsi 2
